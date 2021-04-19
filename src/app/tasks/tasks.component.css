@@ -1,0 +1,63 @@
+mat-grid-tile {
+    background: lightblue;
+    display: block;
+  }
+
+mat-expansion-panel{
+    width:500px;
+    background-color: aquamarine;
+}
+
+.example-card {
+    max-width: 400px;
+    
+  }
+  
+.example-header-image {
+    background-image: url('Images/download.jpg');
+    background-size: cover; 
+    
+  }
+
+.example-header-image2{
+    background-image: url('Images/exam.jpg');
+    background-size: cover; 
+
+}
+.example-header-image2{
+    background-image: url('Images/houseplants-asplenium-nidus-peperomia-and-fittonia-royalty-free-image-946085220-1557179507.jpg');
+    background-size: cover; 
+}
+
+.example-header-image2{
+    background-image: url('Images/running.jpg');
+    background-size: cover; 
+}
+
+.task{
+    
+    margin-top: 100px;
+
+}
+
+.task3{
+    margin-top: 130px;
+}
+
+.task4{
+    margin-top: 120px;
+}
+
+.example{
+    margin-left:800px;
+    margin-top: -550px;
+    width:450px;
+    
+}
+
+.example-header-image-quote{
+
+    background-image: url('Images/Quote.jpg');
+    background-size: cover; 
+
+}
