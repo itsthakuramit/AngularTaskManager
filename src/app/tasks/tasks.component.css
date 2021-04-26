@@ -1,16 +1,18 @@
+body{
+    background-color: palevioletred;
+}
 mat-grid-tile {
-    background: lightblue;
+    background: white;
     display: block;
   }
 
 mat-expansion-panel{
     width:500px;
-    background-color: aquamarine;
+    background-color: white;
 }
 
 .example-card {
     max-width: 400px;
-    
   }
   
 .example-header-image {
@@ -34,36 +36,27 @@ mat-expansion-panel{
     background-size: cover; 
 }
 
-.task{
-    
+.task1{    
     margin-top: 100px;
+    margin-left: 500px;
+}
 
+.task2{    
+    margin-top: 100px;
+    margin-left: 500px;
 }
 
 .task3{
     margin-top: 130px;
+    margin-left: 500px;
 }
 
 .task4{
     margin-top: 120px;
-}
-
-.example{
-    margin-left:800px;
-    margin-top: -550px;
-    width:450px;
-    
-}
-
-.example-header-image-quote{
-
-    background-image: url('../../assets/Images/Quote.jpg');
-    background-size: cover; 
-
+    margin-left: 500px;
 }
 
 .mat-card-image{
-    height:300px;
-    
-
+    height:80px;
+    width: 80px;
 }
